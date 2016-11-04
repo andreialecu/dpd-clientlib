@@ -1,0 +1,28 @@
+{
+  "name": "dpd-clientlib",
+  "description": "Client library (dpd.js) for Deployd",
+  "version": "0.8.9",
+  "author": "Deployd Contributors",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deployd/dpd-clientlib.git"
+  },
+  "dependencies": {
+    "async": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/deployd/dpd-clientlib/issues"
+  },
+  "homepage": "https://github.com/deployd/dpd-clientlib",
+  "main": "client-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client",
+    "dpd.js",
+    "dpd",
+    "deployd"
+  ],
+  "license": "Apache-2.0"
+}
